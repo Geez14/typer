@@ -11,7 +11,7 @@ pub mod github {
     pub const GITHUB_ICON: char = '';
     pub const GITHUB_REPO_LINK: &str = "https://github.com/akash1047/typer";
     pub const CONTRIBUTERS: [Profile; 1] = [
-        // Profile("<github-id>")
+        Profile("Geez14")
         Profile("akash1047"),
     ];
 }
